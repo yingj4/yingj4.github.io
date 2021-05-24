@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please email me if you need a PDF version of my latest CV.
+_Please email me if you need a PDF version of my latest CV._
 
 Education
 ======
