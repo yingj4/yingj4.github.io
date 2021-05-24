@@ -1,4 +1,3 @@
-
 ---
 title: "ENGG 2900D"
 collection: teaching
