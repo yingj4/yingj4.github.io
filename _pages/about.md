@@ -10,7 +10,7 @@ redirect_from:
 
 Brief Bio
 ======
-I am an [Electrical and Computer Engineering](https://ece.illinois.edu/) graduate student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC). My supervisor is Professor [Sarita V. Adve](http://sadve.cs.illinois.edu/).
+I am an [Electrical and Computer Engineering](https://ece.illinois.edu/) graduate student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC). My supervisor is [Professor Sarita V. Adve](http://sadve.cs.illinois.edu/).
 
 Prior to my graduate study, I was a research assistant under the supervision of [Professor Chi-Ying Tsui](https://sites.google.com/view/vlsi-lab-hkust/people/tsui-chi-ying) and [Professor Wing-Hung Ki](https://eeki.home.ece.ust.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) (HKUST) and NeuroTech (HK) Limited for half a year.
 
@@ -20,7 +20,13 @@ For my personal hobbies, please check [More about Me](/markdown/).
 
 Research Interests
 ------
-
+I am interested in the design of hardware-software interface with the work spanning
+* Computer Architecture
+* Heterogeneous Systems
+* Accelerator Systems
+* Hardware/Software Co-design Method
+* Parallel Programming
+* Memory Systems
 
 News
 ======
