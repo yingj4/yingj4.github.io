@@ -1,5 +1,5 @@
 ---
-title: "ELEC 3300"
+title: "ELEC 3300 (HKUST)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-spring-teaching

@@ -1,5 +1,5 @@
 ---
-title: "ELEC 1100"
+title: "ELEC 1100 (HKUST)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-teaching-3
