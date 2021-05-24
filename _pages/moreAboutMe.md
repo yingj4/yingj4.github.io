@@ -20,4 +20,4 @@ I enjoy listening to all kinds of music in my spare time and when working out at
 ## TV Series
 I love Deadpool (both the comic one and the one Ryan Reynolds plays). I am a big fan of Marvel.
 
-I also love the TBBT series. Those series are one of the reasons why I want to do a Ph.D. (half-kidding).
+I also love the TBBT series. TBBT is one of the reasons why I want to do a Ph.D. (half-kidding).
