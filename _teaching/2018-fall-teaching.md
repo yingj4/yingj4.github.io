@@ -2,7 +2,7 @@
 title: "ELEC 1100"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-fall-teaching
+# permalink: /teaching/2018-fall-teaching
 venue: "HKUST, ECE"
 date: 2018-09-01
 location: "Hong Kong"
