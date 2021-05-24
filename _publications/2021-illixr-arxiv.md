@@ -1,7 +1,7 @@
 ---
 title: "Exploring Extended Reality with ILLIXR: A New Playground for Architecture Research"
 collection: publications
-permalink: /publication/2021-illixr-arxiv
+permalink: /publications/2021-illixr-arxiv
 excerpt: 'This paper is about our ILLIXR project.'
 date: 2021-03-03
 venue: 'arXiv preprint'
