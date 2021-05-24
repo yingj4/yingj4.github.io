@@ -16,7 +16,7 @@ Prior to my graduate study, I was a research assistant under the supervision of 
 
 I received my Bachelor of Engineering with the first-class honor in [Electronic and Computer Engineering](https://ece.hkust.edu.hk/) from HKUST in the summer of 2019 with two minors in [Information Technology](https://www.cse.ust.hk/) and [Mathematics](http://www.math.ust.hk/). My undergraduate study was supervised by [Professor Jiang Xu](https://eexu.home.ece.ust.hk/) when working on the hardware/software co-design method and [Professor Ling Shi](https://eesling.home.ece.ust.hk/) when working on the control systems.
 
-For my personal hobbies, please check [More about Me](/markdown/).
+For my personal hobbies, please check [More about Me](/moreAboutMe/).
 
 Research Interests
 ======
