@@ -1,5 +1,5 @@
 ---
-title: "Exploring extended reality with illixr: A new playground for architecture research"
+title: "Exploring Extended Reality with ILLIXR: A New Playground for Architecture Research"
 collection: publications
 permalink: /publication/2021-illixr-arxiv
 excerpt: 'This paper is about our ILLIXR project.'
