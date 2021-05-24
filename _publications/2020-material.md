@@ -18,19 +18,11 @@ Bibtex
 ------
 @article{article,
     author = {Chen, Haomin and Jing, Ying and Lee, Jeng-Hun and Dan, Liu and Kim, Jungmo and Chen, Shusheng and Huang, Kan and Shen, Xi and Zheng, Qingbin and Yang, Jinglei and Jeon, Seokwoo and Kim, Jang-Kyo},
-
     year = {2020},
-
     month = {06},
-
     pages = {},
-
     title = {Human Skin-Inspired Integrated Multidimensional Sensors Based on Highly Anisotropic Structures},
-
     volume = {7},
-
     journal = {Materials Horizons},
-
     doi = {10.1039/D0MH00922A}
-    
 }
