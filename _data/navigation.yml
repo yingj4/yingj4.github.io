@@ -5,9 +5,9 @@ main:
 
   - title: "CV"
     url: /cv/
-    
+
   - title: "TA Experience"
     url: /teaching/
     
   - title: "More About Me"
-    url: /markdown/
+    url: /moreAboutMe/
