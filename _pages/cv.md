@@ -61,33 +61,20 @@ University Activities
   * Position: Hardware Engineer and Material Manager
   * Supervisor: [Professor Kam Tim Woo](https://seng.ust.hk/about/people/faculty/kam-tim-woo?id=182)
   
-Skills
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++
+* C
+* Python
+* Matlab
+* Java
+* JavaScript
+* Groovy
+* VHDL
+* System C
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Mandarin
+* English
+* Cantonese
