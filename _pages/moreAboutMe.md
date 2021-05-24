@@ -1,6 +1,6 @@
 ---
 permalink: /moreAboutMe/
-title: "More About Me"
+title: "More about Me"
 author_profile: true
 redirect_from: 
   - /md/
