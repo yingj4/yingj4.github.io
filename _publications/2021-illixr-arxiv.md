@@ -17,7 +17,7 @@ As we enter the era of domain-specific architectures, systems researchers must u
 BibTex
 ------
 @misc{huzaifa2021exploring,
-    title={Exploring Extended Reality with ILLIXR: A New Playground for Architecture Research}, 
+    title={Exploring Extended Reality with ILLIXR: A New Playground for Architecture Research},
     author={Muhammad Huzaifa and Rishi Desai and Samuel Grayson and Xutao Jiang and Ying Jing and Jae Lee and Fang Lu and Yihan Pang and Joseph Ravichandran and Finn Sinclair and Boyuan Tian and Hengzhi Yuan and Jeffrey Zhang and Sarita V. Adve},
     year={2021},
     eprint={2004.04643},
