@@ -8,5 +8,5 @@ date: 2019-02-01
 location: "Hong Kong"
 ---
 
-* Course: Introduction to Embedded Systems
+* Course Title: Introduction to Embedded Systems
 * Position: Undergraduate Teaching Assistant

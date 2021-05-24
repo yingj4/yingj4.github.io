@@ -8,5 +8,5 @@ date: 2016-02-01
 location: "Hong Kong"
 ---
 
-* Course: Community Services Project: Underwater Robot Community Engagement Project
+* Course Title: Community Services Project: Underwater Robot Community Engagement Project
 * Position: Undergraduate Teaching Assistant

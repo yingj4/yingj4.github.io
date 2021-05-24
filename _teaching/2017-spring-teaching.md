@@ -8,5 +8,5 @@ date: 2017-02-01
 location: "Hong Kong"
 ---
 
-* Course: Introduction to Electro-Robot Design
+* Course Title: Introduction to Electro-Robot Design
 * Position: Undergraduate Teaching Assistant
