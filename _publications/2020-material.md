@@ -2,7 +2,7 @@
 title: "Human Skin-Inspired Integrated Multidimensional Sensors Based on Highly Anisotropic Structures"
 collection: publications
 permalink: /publications/2020-material
-excerpt: 'This paper was done in Fall 2019 when I was a research assistant.'
+excerpt: 'This paper was done in Fall 2019 when I was a research assistant. I was in charge of the software application testing.'
 date: 2020-06-06
 venue: 'Materials Horizons'
 paperurl: 'https://www.researchgate.net/publication/342221438_Human_Skin-Inspired_Integrated_Multidimensional_Sensors_Based_on_Highly_Anisotropic_Structures'
