@@ -1,12 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ying Jing"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Brief Bio
+======
+I am an [Electrical and Computer Engineering](https://ece.illinois.edu/) graduate student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC). My supervisor is Professor [Sarita V. Adve](http://sadve.cs.illinois.edu/).
+
+Prior to my graduate study, I was a research assistant under the supervision of [Professor Chi-Ying Tsui](https://sites.google.com/view/vlsi-lab-hkust/people/tsui-chi-ying) and [Professor Wing-Hung Ki](https://eeki.home.ece.ust.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) (HKUST) and NeuroTech (HK) Limited for half a year.
+
+I received my Bachelor of Engineering with the first-class honor in [Electronic and Computer Engineering](https://ece.hkust.edu.hk/) from HKUST in the summer of 2019 with two minors in [Information Technology](https://www.cse.ust.hk/) and [Mathematics](http://www.math.ust.hk/). My undergraduate study was supervised by [Professor Jiang Xu](https://eexu.home.ece.ust.hk/) when working on the hardware/software co-design method and [Professor Ling Shi](https://eesling.home.ece.ust.hk/) when working on the control systems.
+
+For my personal hobbies, please check [More about Me](/markdown/).
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
