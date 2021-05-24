@@ -78,3 +78,9 @@ Languages
 * Mandarin
 * English
 * Cantonese
+
+Scholarship
+======
+* HKUST Continuing UG Scholarship (2018, 2017, 2016)
+* Hong Kong Government Reaching Out Award (2018)
+* HKUST Study Abroad Sponsorship (2018)
