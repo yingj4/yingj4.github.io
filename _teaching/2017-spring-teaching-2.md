@@ -1,12 +1,12 @@
 ---
-title: "ELEC 3300"
+title: "ELEC 1100"
 collection: teaching
 type: "Undergraduate course"
-# permalink: /teaching/2019-spring-teaching
+permalink: /teaching/2017-spring-teaching-2
 venue: "HKUST, ECE"
-date: 2019-02-01
+date: 2017-02-01
 location: "Hong Kong"
 ---
 
-* Course Title: Introduction to Embedded Systems
+* Course Title: Introduction to Electro-Robot Design
 * Position: Undergraduate Teaching Assistant
