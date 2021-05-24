@@ -34,4 +34,6 @@ News
 * [Mar 2021] ILLIXR v2.1.10 is released. Available [here](https://github.com/ILLIXR/ILLIXR/releases/tag/v2.1.10)!
 * [Sep 2020] ILLIXR v2.1.0 is released. Available [here](https://github.com/ILLIXR/ILLIXR/releases/tag/v2.1.0)!
 
-
+Sincerely
+======
+I am always grateful for the people who offered me help and recognition regardless of the degree and amount. Some small help or even a single line of kind words can be the star that enlightens my world. An opportunity you offered me can alter the trajectory of my life. __I would like to sincerely thank you all.__
