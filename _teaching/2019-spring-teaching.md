@@ -8,5 +8,5 @@ date: 2019-02-01
 location: "Hong Kong"
 ---
 
-* Course: ELEC 3300 (Introduction to Embedded Systems)
+* Course: Introduction to Embedded Systems
 * Position: Undergraduate Teaching Assistant
