@@ -8,6 +8,8 @@ date: 2016-02-01
 location: "Hong Kong"
 ---
 
+ELEC 3300, ELEC 1100, ENGG 2900D
+
 ELEC 3300
 ======
 * Course Title: Introduction to Embedded Systems
