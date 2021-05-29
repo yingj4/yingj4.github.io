@@ -41,6 +41,11 @@ Research Experience
   * Senior: [Professor Yatin A. Manerkar](https://www.cs.princeton.edu/~manerkar/)
 
 * 2017.05 - 2017.08: Undergraduate Research Assistant
+  * University: Tsinghua University
+  * Project: Indoor SLAM for Automobile Car and Quadcoptor
+  * Supervisor: [Dr. Geng Lu](http://www.au.tsinghua.edu.cn/info/1082/1683.htm)
+
+* 2017.05 - 2017.08: Undergraduate Research Assistant
   * University: HKUST
   * Project: Remotely Controlled Intelligent Car
   * Supervisor: [Professor Ling Shi](https://eesling.home.ece.ust.hk/)
