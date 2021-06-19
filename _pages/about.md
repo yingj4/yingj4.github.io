@@ -30,7 +30,7 @@ I am interested in the design of hardware-software interface with the work spann
 
 News
 ======
-* [June 2021] We presented our [ILLIXR](http://illixr.org/) work at the [ISCA 2021 tutorial](https://illixr.org/about/news/isca-2021-tutorial)
+* [June 2021] We presented our [ILLIXR](http://illixr.org/) work at the [ISCA 2021 tutorial](https://illixr.org/about/news/isca-2021-tutorial)!
 * [Apr 2021] We presented our [ILLIXR](http://illixr.org/) work at the [ASPLOS 2021 tutorial](https://asplos-conference.org/tutorials/#illixr)!
 * [Mar 2021] ILLIXR v2.1.10 is released. Available [here](https://github.com/ILLIXR/ILLIXR/releases/tag/v2.1.10)!
 * [Sep 2020] ILLIXR v2.1.0 is released. Available [here](https://github.com/ILLIXR/ILLIXR/releases/tag/v2.1.0)!
