@@ -13,7 +13,7 @@ _Please email me if you need a PDF version of my latest CV._
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2020 - Present
+* Ph.D. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2020 - Present
 * B.Eng. in Electronic and Computer Engineering, Hong Kong University of Science and Technology, 2015 - 2019
 
 Research Experience
