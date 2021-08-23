@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Brief Bio
+Welcome
 ======
 I am an [ECE](https://ece.illinois.edu/) graduate student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC). My supervisor is [Prof. Sarita V. Adve](http://sadve.cs.illinois.edu/).
 
