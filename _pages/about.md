@@ -10,11 +10,11 @@ redirect_from:
 
 Brief Bio
 ======
-I am an [Electrical and Computer Engineering](https://ece.illinois.edu/) graduate student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC). My supervisor is [Professor Sarita V. Adve](http://sadve.cs.illinois.edu/).
+I am an [ECE](https://ece.illinois.edu/) graduate student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC). My supervisor is [Prof. Sarita V. Adve](http://sadve.cs.illinois.edu/).
 
-Prior to my graduate study, I was a research assistant under the supervision of [Professor Chi-Ying Tsui](https://sites.google.com/view/vlsi-lab-hkust/people/tsui-chi-ying) and [Professor Wing-Hung Ki](https://eeki.home.ece.ust.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) (HKUST) and NeuroTech (HK) Limited for half a year.
+Prior to my graduate study, I was a research assistant under the supervision of [Prof. Chi-Ying Tsui](https://sites.google.com/view/vlsi-lab-hkust/people/tsui-chi-ying) and [Prof. Wing-Hung Ki](https://eeki.home.ece.ust.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) (HKUST) and NeuroTech (HK) Limited for half a year.
 
-I received my Bachelor of Engineering with the first-class honor in [Electronic and Computer Engineering](https://ece.hkust.edu.hk/) from HKUST in the summer of 2019 with two minors in [Information Technology](https://www.cse.ust.hk/) and [Mathematics](http://www.math.ust.hk/). My undergraduate study was supervised by [Professor Jiang Xu](https://eexu.home.ece.ust.hk/) when working on the hardware/software co-design method and [Professor Ling Shi](https://eesling.home.ece.ust.hk/) when working on the control systems.
+I received my Bachelor of Engineering with the first-class honor in [ECE](https://ece.hkust.edu.hk/) from HKUST in the summer of 2019 with two minors in [IT](https://www.cse.ust.hk/) and [Math](http://www.math.ust.hk/). My undergraduate study was supervised by [Professor Jiang Xu](https://eexu.home.ece.ust.hk/) when working on the hardware/software co-design method and [Professor Ling Shi](https://eesling.home.ece.ust.hk/) when working on the control systems.
 
 For my personal hobbies, please check [More about Me](/moreAboutMe/).
 
@@ -23,7 +23,7 @@ Research Interests
 I am interested in the design of hardware-software interface with the work spanning
 * Computer Architecture
 * Heterogeneous Systems
-* Accelerator Systems
+* Design Space Exploration
 * Hardware/Software Co-design Method
 * Parallel Programming
 * Memory Systems
