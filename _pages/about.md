@@ -39,5 +39,4 @@ Sincerely
 ------
 I am always grateful for the people who offered me help and recognition regardless of the degree and amount. Some small help or even a single line of kind words can be the star that enlightens my world. An opportunity you offered me can alter the trajectory of my life. __I would like to sincerely thank you all.__
 
-<!--<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=303&t=tt&d=FPF7twPjD1vWaMFrlN_DYIRTdajBNlmQcjNkLZguci8&ct=fff844"></script>-->
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GB3aoqCR3YePMP0ZOTyIZ1qNAVLQncjZJ4kRG2I98os'></script>
