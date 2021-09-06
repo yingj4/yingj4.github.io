@@ -14,7 +14,7 @@ I am an [ECE](https://ece.illinois.edu/) graduate student at the [University of 
 
 Prior to my graduate study, I was a research assistant under the supervision of [Prof. Chi-Ying Tsui](https://sites.google.com/view/vlsi-lab-hkust/people/tsui-chi-ying) and [Prof. Wing-Hung Ki](https://eeki.home.ece.ust.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) (HKUST) and NeuroTech (HK) Limited for half a year.
 
-I received my Bachelor of Engineering with the first-class honor in [ECE](https://ece.hkust.edu.hk/) from HKUST in the summer of 2019 with two minors in [IT](https://www.cse.ust.hk/) and [Math](http://www.math.ust.hk/). My undergraduate study was supervised by [Prof. Jiang Xu](https://eexu.home.ece.ust.hk/) when working on the hardware/software co-design method and [Prof. Ling Shi](https://eesling.home.ece.ust.hk/) when working on the control systems.
+I received my Bachelor of Engineering with the first-class honor in [ECE](https://ece.hkust.edu.hk/) from HKUST in the summer of 2019 with two minors in [IT](https://www.cse.ust.hk/) and [Math](http://www.math.ust.hk/). My undergraduate study was supervised by [Prof. Jiang Xu](https://eexu.home.ece.ust.hk/). <!-- when working on the hardware/software co-design method and [Prof. Ling Shi](https://eesling.home.ece.ust.hk/) when working on the control systems.-->
 
 For my personal hobbies, please check [More about Me](/moreAboutMe/).
 

@@ -16,6 +16,13 @@ Education
 * Ph.D. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2020 - Present
 * B.Eng. in Electronic and Computer Engineering, Hong Kong University of Science and Technology, 2015 - 2019
 
+Publications
+======
+* [Exploring Extended Reality with ILLIXR: A New Playground for Architecture Research](/publications/2021-illixr-arxiv)<br>
+  Muhammad Huzaifa, Rishi Desai, Samuel Grayson, Xutao Jiang, _Ying Jing_, Jae Lee, Fang Lu, Yihan Pang, Joseph Ravichandran, Finn Sinclair, Boyuan Tian, Hengzhi Yuan, Jeffrey Zhang, Sarita V. Adve<br>
+  _IEEE International Symposium on Workload Characterization (IISWC)_, 2021.
+* [Human Skin-Inspired Integrated Multidimensional Sensors Based on Highly Anisotropic Structures](/publications/2020-material)
+
 Talks
 ======
 * _ILLIXR: Illinois Extended Reality Testbed Enabling Augmented and Virtual Reality Architecture and Systems Research_
