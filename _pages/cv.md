@@ -16,6 +16,13 @@ Education
 * Ph.D. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2020 - Present
 * B.Eng. in Electronic and Computer Engineering, Hong Kong University of Science and Technology, 2015 - 2019
 
+Talks
+======
+* _ILLIXR: Illinois Extended Reality Testbed Enabling Augmented and Virtual Reality Architecture and Systems Research_
+  * Workshops and Tutorials in the 48th Symposium on Computer Architecture (__ISCA__), June 2021.
+* _ILLIXR: Illinois Extended Reality Testbed_
+  * Workshops and Tutorials in the 26th International Conference on Architectural Support for Programming Languages and Operating Systems (__ASPLOS__), April 2021.
+
 Research Experience
 ======
 * 2020.01 - Present: Graduate Research Assistant
