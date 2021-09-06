@@ -28,7 +28,7 @@ I am interested in the design of hardware-software interface with the work spann
 * Parallel Programming
 * Memory Systems
 
-For publications etc., please check [CV](/cv)
+For my publications etc., please check [CV](/cv)
 
 News
 ======
