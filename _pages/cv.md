@@ -56,7 +56,7 @@ Research Experience
   * Supervisor: [Prof. Margaret Martonosi](http://www.princeton.edu/~mrm/)
   * Senior: [Dr. Yatin A. Manerkar](https://web.eecs.umich.edu/~manerkar/)
 
-* 2017.05 - 2017.08: Undergraduate Research Assistant
+* 2018.01 - 2017.06: Undergraduate Research Assistant
   * University: Tsinghua University
   * Project: Indoor SLAM for Automobile Car and Quadcoptor
   * Supervisor: [Dr. Geng Lu](http://www.au.tsinghua.edu.cn/info/1082/1683.htm)
