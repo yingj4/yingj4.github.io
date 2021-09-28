@@ -18,11 +18,11 @@ Education
 
 Publications
 ======
-* [Exploring Extended Reality with ILLIXR: A New Playground for Architecture Research](../publications/2021-illixr-arxiv)<br>
+* [Exploring Extended Reality with ILLIXR: A New Playground for Architecture Research](https://arxiv.org/pdf/2004.04643.pdf)<br>
   Muhammad Huzaifa, Rishi Desai, Samuel Grayson, Xutao Jiang, __Ying Jing__, Jae Lee, Fang Lu, Yihan Pang, Joseph Ravichandran, Finn Sinclair, Boyuan Tian, Hengzhi Yuan, Jeffrey Zhang, Sarita V. Adve<br>
   _IEEE International Symposium on Workload Characterization (__IISWC__)_, 2021.<br>
   __Best Paper Award Nominee__
-* [Human Skin-Inspired Integrated Multidimensional Sensors Based on Highly Anisotropic Structures](../publications/2020-material)<br>
+* [Human Skin-Inspired Integrated Multidimensional Sensors Based on Highly Anisotropic Structures](https://www.researchgate.net/publication/342221438_Human_Skin-Inspired_Integrated_Multidimensional_Sensors_Based_on_Highly_Anisotropic_Structures)<br>
   Haomin Chen, __Ying Jing__, Jeng-Hun Lee, Liu Dan, Jungmo Kim, Shusheng Chen, Kan Huang, Xi Shen, Qingbin Zheng, Jinglei Yang, Seokwoo Jeon, Jang-Kyo Kim<br>
   _Materials Horizons_, 2020
 
