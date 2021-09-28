@@ -18,7 +18,7 @@ Education
 
 Publications
 ======
-* [Exploring Extended Reality with ILLIXR: A New Playground for Architecture Research](https://arxiv.org/pdf/2004.04643.pdf)<br>
+* [Exploring Extended Reality with ILLIXR: A New Playground for Architecture Research](https://arxiv.org/abs/2004.04643)<br>
   Muhammad Huzaifa, Rishi Desai, Samuel Grayson, Xutao Jiang, __Ying Jing__, Jae Lee, Fang Lu, Yihan Pang, Joseph Ravichandran, Finn Sinclair, Boyuan Tian, Hengzhi Yuan, Jeffrey Zhang, Sarita V. Adve<br>
   _IEEE International Symposium on Workload Characterization (__IISWC__)_, 2021.<br>
   __Best Paper Award Nominee__
