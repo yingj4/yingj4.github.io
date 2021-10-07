@@ -10,7 +10,7 @@ redirect_from:
 ## Sports
 I love playing soccer and watching soccer games. I have been a goalkeeper in the middle school team and the mainland soccer team at HKUST. I also played as a goalkeeper in the IMLeague. I am a big fan of Chelsea and Beijing Guoan. Frank Lampard is my favorite player.
 
-Other than soccer, I also work out in the gym.
+Other than soccer, I also work out at the gym.
 
 ## Music
 I am an amateur of the piano. I have the absolute pitch.
