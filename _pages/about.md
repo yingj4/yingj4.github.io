@@ -32,6 +32,8 @@ For my publications etc., please check [CV](/cv).
 
 News
 ======
+* [Sep 2021] The ILLIXR paper is accepted for publication at [IISWC 2021](http://www.iiswc.org/iiswc2021/index.html)! It also has the artifact part.
+* [July 2021] FARSI becomes open-sourced. Avalable [here](https://github.com/facebookresearch/Project_FARSI)!
 * [June 2021] We presented our [ILLIXR](http://illixr.org/) work at the [ISCA 2021 tutorial](https://illixr.org/about/news/isca-2021-tutorial)!
 * [Apr 2021] We presented our [ILLIXR](http://illixr.org/) work at the [ASPLOS 2021 tutorial](https://asplos-conference.org/tutorials/#illixr)!
 * [Mar 2021] ILLIXR v2.1.10 is released. Available [here](https://github.com/ILLIXR/ILLIXR/releases/tag/v2.1.10)!
