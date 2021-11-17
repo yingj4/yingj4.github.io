@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome
 ======
-I am a graduate student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC). I am working with [Prof. Sarita V. Adve](http://sadve.cs.illinois.edu/) on computer architecture.
+I am a graduate student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC). I work with [Prof. Sarita V. Adve](http://sadve.cs.illinois.edu/) on computer architecture.
 
 Prior to my graduate study, I was a research assistant under the supervision of [Prof. Chi-Ying Tsui](https://sites.google.com/view/vlsi-lab-hkust/people/tsui-chi-ying) and [Prof. Wing-Hung Ki](https://eeki.home.ece.ust.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) (HKUST) and NeuroTech (HK) Limited for half a year.
 
@@ -33,8 +33,8 @@ For my publications etc., please check [CV](/cv).
 News
 ======
 * [Nov 2021] We presented our [ILLIXR](http://illixr.org/) work at the [2021 ADA Symposium](https://adacenter.org/fallsymposium2021)!
-* [Nov 2021] We presented our paper titled [ILLIXR: Enabling End-to-End Extended Reality Research](https://arxiv.org/abs/2004.04643) at [IISWC 2021](http://www.iiswc.org/iiswc2021/index.html). The video is available [here](https://www.youtube.com/watch?v=xJffy3TPTFE&list=PL2-k5PdgEJAm-kl4dLZs0oLdQX-jdvu9o&index=1&t=357s&ab_channel=ieeeComputerSociety)! We also won the __Best Paper Award__!
-* [Sep 2021] Our paper titled [ILLIXR: Enabling End-to-End Extended Reality Research](https://arxiv.org/abs/2004.04643) is accepted for publication at [IISWC 2021](http://www.iiswc.org/iiswc2021/index.html)! It also has the artifact part!
+* [Nov 2021] We presented our paper titled [ILLIXR: Enabling End-to-End Extended Reality Research](http://rsim.cs.illinois.edu/Pubs/IISWC_2021_ILLIXR.pdf) at [IISWC 2021](http://www.iiswc.org/iiswc2021/index.html). The video is available [here](https://www.youtube.com/watch?v=xJffy3TPTFE&list=PL2-k5PdgEJAm-kl4dLZs0oLdQX-jdvu9o&index=1&t=357s&ab_channel=ieeeComputerSociety)! We also won the __Best Paper Award__!
+* [Sep 2021] Our paper titled [ILLIXR: Enabling End-to-End Extended Reality Research](http://rsim.cs.illinois.edu/Pubs/IISWC_2021_ILLIXR.pdf) is accepted for publication at [IISWC 2021](http://www.iiswc.org/iiswc2021/index.html)! It also has the artifact part!
 * [July 2021] FARSI becomes open-sourced. Avalable [here](https://github.com/facebookresearch/Project_FARSI)!
 * [June 2021] We presented our [ILLIXR](http://illixr.org/) work at the [ISCA 2021 tutorial](https://illixr.org/about/news/isca-2021-tutorial). The video is available [here](https://www.youtube.com/watch?v=CdP99PO5pRU&list=PL2-k5PdgEJAm-kl4dLZs0oLdQX-jdvu9o&index=2&ab_channel=SaritaAdve%27sResearchGroup)!
 * [Apr 2021] We presented our [ILLIXR](http://illixr.org/) work at the [ASPLOS 2021 tutorial](https://asplos-conference.org/2021/index.html%3Fp=2278.html#illixr)!

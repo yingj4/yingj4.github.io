@@ -18,7 +18,7 @@ Education
 
 Publications
 ======
-* [ILLIXR: Enabling End-to-End Extended Reality Research](https://arxiv.org/abs/2004.04643)<br>
+* [ILLIXR: Enabling End-to-End Extended Reality Research](http://rsim.cs.illinois.edu/Pubs/IISWC_2021_ILLIXR.pdf)<br>
   Muhammad Huzaifa, Rishi Desai, Samuel Grayson, Xutao Jiang, __Ying Jing__, Jae Lee, Fang Lu, Yihan Pang, Joseph Ravichandran, Finn Sinclair, Boyuan Tian, Hengzhi Yuan, Jeffrey Zhang, Sarita V. Adve<br>
   _IEEE International Symposium on Workload Characterization (__IISWC__)_, 2021.<br>
   __Best Paper Award__
