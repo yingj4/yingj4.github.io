@@ -28,8 +28,8 @@ Publications
 
 Talks
 ======
-* _ILLIXR - Tutorial and ADA ppportunities_
-  * 2021 [ADA center](https://adacenter.org/fallsymposium2021) Annual Symposium, November 2021.
+* _ILLIXR - Tutorial and ADA Opportunities_
+  * 2021 [ADA Center](https://adacenter.org/fallsymposium2021) Annual Symposium, November 2021.
 * _ILLIXR: Enabling End-to-End Extended Reality Research_
   * Main program in 2021 IEEE International Symposium on Workload Characterization (__IISWC__), November 2021.
 * _ILLIXR: Illinois Extended Reality Testbed Enabling Augmented and Virtual Reality Architecture and Systems Research_
