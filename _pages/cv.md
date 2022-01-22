@@ -18,6 +18,9 @@ Education
 
 Publications
 ======
+* [FARSI: Facebook AR System Investigator for AgileDomain-Specific System-on-Chip Exploration](https://arxiv.org/abs/2201.05232)<br>
+  Behzad Boroujerdian, Ying Jing, Amit Kumar, Lavanya Subramanian, Luke Yen, Vincent Lee, Vivek Venkatesan, Amit Jindal, Robert Shearer, Vijay Janapa Reddi<br>
+  _arxiv preprint_, 2022.
 * [ILLIXR: Enabling End-to-End Extended Reality Research](https://ieeexplore.ieee.org/document/9668280)<br>
   Muhammad Huzaifa, Rishi Desai, Samuel Grayson, Xutao Jiang, __Ying Jing__, Jae Lee, Fang Lu, Yihan Pang, Joseph Ravichandran, Finn Sinclair, Boyuan Tian, Hengzhi Yuan, Jeffrey Zhang, Sarita V. Adve<br>
   _IEEE International Symposium on Workload Characterization (__IISWC__)_, 2021.<br>
@@ -25,7 +28,7 @@ Publications
   __IEEE MICRO Top Picks 2022__
 * [Human Skin-Inspired Integrated Multidimensional Sensors Based on Highly Anisotropic Structures](https://www.researchgate.net/publication/342221438_Human_Skin-Inspired_Integrated_Multidimensional_Sensors_Based_on_Highly_Anisotropic_Structures)<br>
   Haomin Chen, __Ying Jing__, Jeng-Hun Lee, Liu Dan, Jungmo Kim, Shusheng Chen, Kan Huang, Xi Shen, Qingbin Zheng, Jinglei Yang, Seokwoo Jeon, Jang-Kyo Kim<br>
-  _Materials Horizons_, 2020
+  _Materials Horizons_, 2020.
 
 Talks
 ======
@@ -34,9 +37,9 @@ Talks
 * _ILLIXR: Enabling End-to-End Extended Reality Research_
   * Main program in 2021 IEEE International Symposium on Workload Characterization (__IISWC__), November 2021.
 * _ILLIXR: Illinois Extended Reality Testbed Enabling Augmented and Virtual Reality Architecture and Systems Research_
-  * Workshops and Tutorials in the 48th Symposium on Computer Architecture (__ISCA__), June 2021.
+  * Tutorial, held in conjunction with the 48th Symposium on Computer Architecture (__ISCA__), June 2021.
 * _ILLIXR: Illinois Extended Reality Testbed_
-  * Workshops and Tutorials in the 26th International Conference on Architectural Support for Programming Languages and Operating Systems (__ASPLOS__), April 2021.
+  * Tutorial, held in conjunction with the 26th International Conference on Architectural Support for Programming Languages and Operating Systems (__ASPLOS__), April 2021.
 
 Research Experience
 ======
