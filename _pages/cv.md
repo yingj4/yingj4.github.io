@@ -18,7 +18,7 @@ Education
 
 Publications
 ======
-* [FARSI: Facebook AR System Investigator for AgileDomain-Specific System-on-Chip Exploration](https://arxiv.org/abs/2201.05232)<br>
+* [FARSI: Facebook AR System Investigator for Agile Domain-Specific System-on-Chip Exploration](https://arxiv.org/abs/2201.05232)<br>
   Behzad Boroujerdian, __Ying Jing__, Amit Kumar, Lavanya Subramanian, Luke Yen, Vincent Lee, Vivek Venkatesan, Amit Jindal, Robert Shearer, Vijay Janapa Reddi<br>
   _arxiv preprint_, 2022.
 * [ILLIXR: Enabling End-to-End Extended Reality Research](https://ieeexplore.ieee.org/document/9668280)<br>
