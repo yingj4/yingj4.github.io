@@ -21,6 +21,9 @@ Publications
 * [FARSI: Facebook AR System Investigator for Agile Domain-Specific System-on-Chip Exploration](https://arxiv.org/abs/2201.05232)<br>
   Behzad Boroujerdian, __Ying Jing__, Amit Kumar, Lavanya Subramanian, Luke Yen, Vincent Lee, Vivek Venkatesan, Amit Jindal, Robert Shearer, Vijay Janapa Reddi<br>
   _arxiv preprint_, 2022.
+* [Trireme: Exploring Hierarchical Multi-Level Parallelism for Domain Specific Hardware Acceleration](https://arxiv.org/abs/2201.08603)<br>
+  Georgios Zacharopoulos, Adel Ejjeh, __Ying Jing__, En-Yu Yang, Tianyu Jia, Iulian Brumar, Jeremy Intan, Muhammad Huzaifa, Sarita Adve, Vikram Adve, Gu-Yeon Wei, David Brooks<br>
+  _arxiv preprint_, 2022.
 * [ILLIXR: Enabling End-to-End Extended Reality Research](https://ieeexplore.ieee.org/document/9668280)<br>
   Muhammad Huzaifa, Rishi Desai, Samuel Grayson, Xutao Jiang, __Ying Jing__, Jae Lee, Fang Lu, Yihan Pang, Joseph Ravichandran, Finn Sinclair, Boyuan Tian, Hengzhi Yuan, Jeffrey Zhang, Sarita V. Adve<br>
   _IEEE International Symposium on Workload Characterization (__IISWC__)_, 2021.<br>
