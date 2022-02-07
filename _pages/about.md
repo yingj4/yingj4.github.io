@@ -23,10 +23,10 @@ Research Interests
 I am interested in the design of hardware-software interface with the work spanning
 * Computer Architecture
 * Heterogeneous Systems
+* Memory Systems
 * Architectural Design Space Exploration
 * Hardware/Software Co-design Method
 * Parallel Programming
-* Memory Systems
 
 For my publications etc., please check [CV](/cv).
 
