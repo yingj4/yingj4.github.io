@@ -18,9 +18,9 @@ Education
 
 Publications
 ======
-* [FARSI: Facebook AR System Investigator for Agile Domain-Specific System-on-Chip Exploration](https://arxiv.org/abs/2201.05232)<br>
-  Behzad Boroujerdian, __Ying Jing__, Amit Kumar, Lavanya Subramanian, Luke Yen, Vincent Lee, Vivek Venkatesan, Amit Jindal, Robert Shearer, Vijay Janapa Reddi<br>
-  _arxiv preprint_, 2022.
+* [FARSI: An Early-stage Design Space Exploration Framework to Tame the Domain-specific System-on-chip Complexity](https://dl.acm.org/doi/abs/10.1145/3544016)<br>
+  Behzad Boroujerdian, __Ying Jing__, Devashree Tripathy, Amit Kumar, Lavanya Subramanian, Luke Yen, Vincent Lee, Vivek Venkatesan, Amit Jindal, Robert Shearer, Vijay Janapa Reddi<br>
+  _ACM Transactions on Embedded Computing Systems_, 2022.
 * [Trireme: Exploring Hierarchical Multi-Level Parallelism for Domain Specific Hardware Acceleration](https://arxiv.org/abs/2201.08603)<br>
   Georgios Zacharopoulos, Adel Ejjeh, __Ying Jing__, En-Yu Yang, Tianyu Jia, Iulian Brumar, Jeremy Intan, Muhammad Huzaifa, Sarita Adve, Vikram Adve, Gu-Yeon Wei, David Brooks<br>
   _arxiv preprint_, 2022.
