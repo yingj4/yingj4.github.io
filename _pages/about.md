@@ -32,6 +32,8 @@ For my publications etc., please check [CV](/cv).
 
 News
 ======
+* [June 2022] Our paper titled [FARSI: An Early-stage Design Space Exploration Framework to Tame the Domain-specific System-on-chip Complexity](https://dl.acm.org/doi/abs/10.1145/3544016) is accepted for publication at the [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs)!
+* [Jan 2022] Our paper titled [ILLIXR: An Open Testbed to Enable Extended Reality Systems Research](https://ieeexplore.ieee.org/abstract/document/9741292) is selected as an [IEEE MICRO Top Picks from the 2021 Computer Architecture Conferences](https://ieeexplore.ieee.org/ielx7/40/9810878/09810889.pdf?tp=&arnumber=9810889&isnumber=9810878&ref=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==)!
 * [Dec 2021] I passed my PhD Qualifying Exam!
 * [Nov 2021] We presented our [ILLIXR](http://illixr.org/) work at the [2021 ADA Symposium](https://adacenter.org/fallsymposium2021)!
 * [Nov 2021] We presented our paper titled [ILLIXR: Enabling End-to-End Extended Reality Research](http://rsim.cs.illinois.edu/Pubs/IISWC_2021_ILLIXR.pdf) at [IISWC 2021](http://www.iiswc.org/iiswc2021/index.html). The video is available [here](https://www.youtube.com/watch?v=xJffy3TPTFE&list=PL2-k5PdgEJAm-kl4dLZs0oLdQX-jdvu9o&index=1&t=357s&ab_channel=ieeeComputerSociety)! We also won the __Best Paper Award__!
