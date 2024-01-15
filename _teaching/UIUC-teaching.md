@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UIUC-teaching/
 venue: "UIUC, ECE"
-date: 2024-01-10
+date: 2024-01-16
 location: "Champaign, IL"
 ---
 
