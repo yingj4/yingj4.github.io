@@ -70,7 +70,7 @@ Research Experience
 
 * 2018.01 - 2017.06: Undergraduate Research Assistant
   * University: Tsinghua University
-  * Project: Indoor SLAM for Automobile Car and Quadcoptor
+  * Project: Indoor SLAM for Automobile Car and Quadcopter
   * Supervisor: [Dr. Geng Lu](http://www.au.tsinghua.edu.cn/info/1082/1683.htm)
 
 * 2017.05 - 2017.08: Undergraduate Research Assistant
@@ -82,7 +82,7 @@ Research Experience
   * University: HKUST
   * Project: Semiconductor and Nanowire-based Sensors and Electronics
   * Supervisor: [Prof. Zhiyong Fan](https://eezfan.home.ece.ust.hk/index.htm)
-  * Senior: [Mr. Swapnadeep Poddar](https://www.linkedin.com/in/swapnadeep07/?originalSubdomain=hk)
+  * Senior: [Dr. Swapnadeep Poddar](https://www.linkedin.com/in/swapnadeep07/?originalSubdomain=hk)
 
 University Activities
 ======
