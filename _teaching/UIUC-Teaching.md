@@ -3,7 +3,7 @@ title: "TA at UIUC"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UIUC-teaching/
-venue: "HKUST, ECE"
+venue: "UIUC, ECE"
 date: 2024-01-16
 location: "Champaign, IL"
 ---
