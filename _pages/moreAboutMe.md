@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 ## Sports
-I love playing soccer and watching soccer games. I have been a goalkeeper in the middle school team and the mainland soccer team at HKUST. Now I am the goalkeeper in AQUA XI at UIUC. I also played as a goalkeeper in the IMLeague. I am a big fan of Chelsea and Beijing Guoan. Frank Lampard is my favorite player.
+I love playing soccer and watching soccer games. I have been a goalkeeper in the middle school and mainland soccer teams at HKUST. Now I am the goalkeeper in CFA at UIUC. I also played as a goalkeeper in the IMLeague. I am a big fan of Chelsea and Beijing Guoan. Frank Lampard is my favorite player.
 
 Other than soccer, I also work out at the gym.
 
 ## Music
 I am an amateur of the piano. I have the absolute pitch.
 
-I enjoy listening to all kinds of music in my spare time and when working out at the gym. Jay Chou and Linkin Park are my favorite.
+I enjoy listening to all kinds of music in my spare time and when working out at the gym. Jay Chou and Linkin Park are my favorites.
 
 ## TV Series
 I love Deadpool (both the comic one and the one Ryan Reynolds plays). I am a big fan of Marvel.
