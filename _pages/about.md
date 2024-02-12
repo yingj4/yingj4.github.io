@@ -34,6 +34,7 @@ For my publications etc., please check [CV](/cv).
 
 News
 ======
+* [Nov 2023] We presented our paper titled [A 12nm Linux-SMP-Capable RISC-V SoC with 14 Accelerator Types, Distributed Hardware Power Management and Flexible NoC-Based Data Orchestration]() at [ISSCC 2024](https://www.isscc.org/)!
 * [Apr 2023] Our paper titled [Trireme: Exploration of Hierarchical Multi-level Parallelism for Hardware Acceleration](https://dl.acm.org/doi/full/10.1145/3580394) is accepted for publication at the [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs)!
 * [Jan 2023] Our paper titled [FARSI: An Early-stage Design Space Exploration Framework to Tame the Domain-specific System-on-chip Complexity](https://dl.acm.org/doi/abs/10.1145/3544016) is accepted for publication at the [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs)!
 * [Jan 2022] Our paper titled [ILLIXR: An Open Testbed to Enable Extended Reality Systems Research](https://ieeexplore.ieee.org/abstract/document/9741292) is selected as an [IEEE MICRO Top Picks from the 2021 Computer Architecture Conferences](https://ieeexplore.ieee.org/ielx7/40/9810878/09810889.pdf?tp=&arnumber=9810889&isnumber=9810878&ref=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==)!
