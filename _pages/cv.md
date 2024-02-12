@@ -18,12 +18,15 @@ Education
 
 Publications
 ======
+* [A 12nm Linux-SMP-Capable RISC-V SoC with 14 Accelerator Types, Distributed Hardware Power Management and Flexible NoC-Based Data Orchestration]()<br>
+  Maico Cassel dos Santos, Tianyu Jia, Joseph Zuckerman, Martin Cochet, Davide Giri, Eric Jens Loscalzo, Karthic Swaminathan, Thierry Tambe, Jeff Jun Zhang, Alper Buyuktosunoglu, Kuan-Lin Chiu, Giuseppe Di Guglielmo, Paolo Mantovani, Luca Piccolboni, Gabriele Tombesi, David Trilla, John-David Wellman, En-Yu Yang, Aporva Amarnath, __Ying Jing__, Bakshree Mishra, Joshua Park, Vignesh Suresh, Sarita Adve, Pradip Bose, David Brooks, Luca P. Carloni, Kenneth L. Shepard, and Gu-Yeon Wei<br>
+  _IEEE International Solid-State Circuits Conference (__ISSCC__)_, 2024.
 * [Trireme: Exploration of Hierarchical Multi-level Parallelism for Hardware Acceleration](https://dl.acm.org/doi/full/10.1145/3580394)<br>
   Georgios Zacharopoulos, Adel Ejjeh, __Ying Jing__, En-Yu Yang, Tianyu Jia, Iulian Brumar, Jeremy Intan, Muhammad Huzaifa, Sarita Adve, Vikram Adve, Gu-Yeon Wei, David Brooks<br>
-  _ACM Transactions on Embedded Computing Systems_, 2023.
+  _ACM Transactions on Embedded Computing Systems (__TECS__)_, 2023.
 * [FARSI: An Early-stage Design Space Exploration Framework to Tame the Domain-specific System-on-chip Complexity](https://dl.acm.org/doi/abs/10.1145/3544016)<br>
   Behzad Boroujerdian, __Ying Jing__, Devashree Tripathy, Amit Kumar, Lavanya Subramanian, Luke Yen, Vincent Lee, Vivek Venkatesan, Amit Jindal, Robert Shearer, Vijay Janapa Reddi<br>
-  _ACM Transactions on Embedded Computing Systems_, 2023.
+  _ACM Transactions on Embedded Computing Systems (__TECS__)_, 2023.
 * [ILLIXR: Enabling End-to-End Extended Reality Research](https://ieeexplore.ieee.org/document/9668280)<br>
   Muhammad Huzaifa, Rishi Desai, Samuel Grayson, Xutao Jiang, __Ying Jing__, Jae Lee, Fang Lu, Yihan Pang, Joseph Ravichandran, Finn Sinclair, Boyuan Tian, Hengzhi Yuan, Jeffrey Zhang, Sarita V. Adve<br>
   _IEEE International Symposium on Workload Characterization (__IISWC__)_, 2021.<br>
