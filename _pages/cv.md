@@ -18,7 +18,7 @@ Education
 
 Publications
 ======
-* [A 12nm Linux-SMP-Capable RISC-V SoC with 14 Accelerator Types, Distributed Hardware Power Management and Flexible NoC-Based Data Orchestration]()<br>
+* [A 12nm Linux-SMP-Capable RISC-V SoC with 14 Accelerator Types, Distributed Hardware Power Management and Flexible NoC-Based Data Orchestration](https://ieeexplore.ieee.org/abstract/document/10454572)<br>
   Maico Cassel dos Santos, Tianyu Jia, Joseph Zuckerman, Martin Cochet, Davide Giri, Eric Jens Loscalzo, Karthic Swaminathan, Thierry Tambe, Jeff Jun Zhang, Alper Buyuktosunoglu, Kuan-Lin Chiu, Giuseppe Di Guglielmo, Paolo Mantovani, Luca Piccolboni, Gabriele Tombesi, David Trilla, John-David Wellman, En-Yu Yang, Aporva Amarnath, __Ying Jing__, Bakshree Mishra, Joshua Park, Vignesh Suresh, Sarita Adve, Pradip Bose, David Brooks, Luca P. Carloni, Kenneth L. Shepard, Gu-Yeon Wei<br>
   _IEEE International Solid-State Circuits Conference (__ISSCC__)_, 2024.
 * [Trireme: Exploration of Hierarchical Multi-level Parallelism for Hardware Acceleration](https://dl.acm.org/doi/full/10.1145/3580394)<br>
