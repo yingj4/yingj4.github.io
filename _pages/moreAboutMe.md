@@ -15,7 +15,7 @@ Other than soccer, I also work out at the gym.
 ## Music
 I am an amateur of the piano. I have the absolute pitch.
 
-I enjoy listening to all kinds of music in my spare time and when working out at the gym. Jay Chou and Linkin Park are my favorites.
+I enjoy listening to all kinds of music in my spare time and when working out at the gym. [Jay Chou](https://en.wikipedia.org/wiki/Jay_Chou) is my favorite. I also listen to songs by [Urashimasakatasen](https://en.wikipedia.org/wiki/Urashimasakatasen) (especially [Senra](https://utaite.fandom.com/wiki/Senra), [Nqrse](https://utaite.fandom.com/wiki/Nqrse), [Linkin Park](https://en.wikipedia.org/wiki/Linkin_Park), and [Hacken Lee](https://en.wikipedia.org/wiki/Hacken_Lee).
 
 ## TV Series
 I love Deadpool (both the comic one and the one Ryan Reynolds plays). I am a big fan of Marvel.
