@@ -15,4 +15,4 @@ ECE 110
 * Course Title: Introduction to Electronics
 * Semester: Spring 2024
 * Position: Graduate Teaching Assistant
-* Job Duty: Grading, Giving Lab Lectures, Debugging
+* Job Duty: Grading, giving lab lectures, debugging
