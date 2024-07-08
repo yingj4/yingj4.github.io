@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Sports
-I love playing soccer and watching soccer games. I have been a goalkeeper in the middle school and mainland soccer teams at HKUST. Now I am the goalkeeper in CFA at UIUC. I also played as a goalkeeper in the IMLeague. I am a big fan of Chelsea and Beijing Guoan. Frank Lampard is my favorite player.
+I love playing soccer and watching soccer games. I have been a goalkeeper in the middle school and mainland soccer teams at HKUST. Now I am the goalkeeper in CFA at UIUC. I also played as a goalkeeper in the IMLeague. I am a big fan of Chelsea and Beijing Guoan. Frank Lampard and Petr Cech are my favorite players.
 
 Other than soccer, I also work out at the gym.
 
