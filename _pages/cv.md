@@ -13,8 +13,8 @@ _Please email me if you need a PDF version of my latest CV._
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2020 - Present
-* B.Eng. in Electronic and Computer Engineering, Hong Kong University of Science and Technology, 2015 - 2019
+* Ph.D. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign
+* B.Eng. in Electronic and Computer Engineering, Hong Kong University of Science and Technology
 
 Publications
 ======
@@ -38,6 +38,10 @@ Publications
 
 Talks
 ======
+* _Composable Hardware Acceleration for Immersive Computing_
+  * Agile Software-Hardware Co-Design of AI-Centric Heterogeneous SoCs (EPOCHS) tutorial, held in conjunction with the 51st International Symposium on Computer Architecture (__ISCA__), June 2024.
+* _Towards Flexible and Low-overhead Memory Hierarchies for Heterogeneous Systems_
+  * 2022 [ADA Center](https://adacenter.org/past-liaison-meetings) Liaison Meeting, August 2022.
 * _ILLIXR - Tutorial and ADA Opportunities_
   * 2021 [ADA Center](https://adacenter.org/fallsymposium2021) Annual Symposium, November 2021.
 * _ILLIXR: Enabling End-to-End Extended Reality Research_
