@@ -51,61 +51,12 @@ Talks
 * _ILLIXR: Illinois Extended Reality Testbed_
   * Tutorial, held in conjunction with the 26th International Conference on Architectural Support for Programming Languages and Operating Systems (__ASPLOS__), April 2021.
 
-Research Experience
-======
-* 2020.01 - Present: Graduate Research Assistant
-  * University: UIUC
-  * Project: [ILLIXR](http://illixr.org/) and related
-  * Supervisor: [Prof. Sarita V. Adve](http://sadve.cs.illinois.edu/)
-
-* 2019.06 - 2020.01: Research Assistant
-  * Venue: HKUST and NeuroTech(HK) Limited
-  * Project: Eye Implant Device
-  * Supervisor: [Prof. Chi-Ying Tsui](https://sites.google.com/view/vlsi-lab-hkust/people/tsui-chi-ying) and [Prof. Wing-Hung Ki](https://eeki.home.ece.ust.hk/)
-
-* 2018.09 - 2019.05: Undergraduate Researcher
-  * University: HKUST
-  * Project: Final Year Thesis: Performance Evaluation of Natural Language Processing
-  * Supervisor: [Prof. Jiang Xu](https://eexu.home.ece.ust.hk/)
-  * Senior: [Dr. Rafael Kioji Vivas Maeda](https://www.linkedin.com/in/rafaelkioji/?originalSubdomain=hk)
-
-* 2018.06 - 2018.08: Undergraduate Research Assistant
-  * University: Princeton University
-  * Project: Concurrency System in IoT
-  * Supervisor: [Prof. Margaret Martonosi](http://www.princeton.edu/~mrm/)
-  * Senior: [Dr. Yatin A. Manerkar](https://web.eecs.umich.edu/~manerkar/)
-
-* 2018.01 - 2017.06: Undergraduate Research Assistant
-  * University: Tsinghua University
-  * Project: Indoor SLAM for Automobile Car and Quadcopter
-  * Supervisor: [Dr. Geng Lu](http://www.au.tsinghua.edu.cn/info/1082/1683.htm)
-
-* 2017.05 - 2017.08: Undergraduate Research Assistant
-  * University: HKUST
-  * Project: Remotely Controlled Intelligent Car
-  * Supervisor: [Prof. Ling Shi](https://eesling.home.ece.ust.hk/)
-
-* 2016.09 - 2016.12: Undergraduate Research Assistant
-  * University: HKUST
-  * Project: Semiconductor and Nanowire-based Sensors and Electronics
-  * Supervisor: [Prof. Zhiyong Fan](https://eezfan.home.ece.ust.hk/index.htm)
-  * Senior: [Dr. Swapnadeep Poddar](https://www.linkedin.com/in/swapnadeep07/?originalSubdomain=hk)
-
-University Activities
-======
-* 2017.09 - 2017.12: HKUST RoboMaster Team
-  * Position: Hardware Engineer and Material Manager
-  * Supervisor: [Prof. Winnie Suk Wai Leung](https://seng.ust.hk/about/people/faculty/winnie-suk-wai-leung)
-
-* 2015.09 - 2016.12: HKUST Robotics Team Smart Car Subteam
-  * Position: Hardware Engineer and Material Manager
-  * Supervisor: [Prof. Kam Tim Woo](https://seng.ust.hk/about/people/faculty/kam-tim-woo?id=182)
-  
 Programming Skills
 ======
+* Python
 * C++
 * C
-* Python
+* Verilog
 * Matlab
 * Java
 * JavaScript
@@ -113,11 +64,19 @@ Programming Skills
 * VHDL
 * System C
 
+Tools
+======
+* gem5
+* Stratus HLS
+* Vivado HLS
+* LLVM
+
 Languages
 ======
 * Mandarin
 * English
 * Cantonese
+* Japanese
 
 Scholarship
 ======
