@@ -68,8 +68,10 @@ Tools
 ======
 * gem5
 * Stratus HLS
-* Vivado HLS
 * LLVM
+* Latex
+* Vivado HLS
+* Android Studio
 
 Languages
 ======
