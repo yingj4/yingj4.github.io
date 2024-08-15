@@ -56,13 +56,14 @@ Programming Skills
 * Python
 * C++
 * C
+* SystemC
 * Verilog
 * Matlab
 * Java
+* Chiesel
 * JavaScript
 * Groovy
 * VHDL
-* System C
 
 Tools
 ======
