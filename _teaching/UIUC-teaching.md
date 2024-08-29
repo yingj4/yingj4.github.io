@@ -8,7 +8,14 @@ date: 2024-01-16
 location: "Champaign, IL"
 ---
 
-ECE 110
+ECE 110, ECE 120
+
+ECE 120
+======
+* Course Title: Introduction to Computing
+* Semester: Fall 2024
+* Position: Graduate Teaching Assistant
+* Job Duty: Leading the discussion session, debugging
 
 ECE 110
 ======
@@ -16,3 +23,4 @@ ECE 110
 * Semester: Spring 2024
 * Position: Graduate Teaching Assistant
 * Job Duty: Grading, giving lab lectures, debugging
+* __Teacher Ranked as Excellent by Their Students__
