@@ -18,6 +18,9 @@ Education
 
 Publications
 ======
+* [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://rsim.cs.illinois.edu/Pubs/24-PACT-Mozart.pdf)<br>
+  Vignesh Suresh, Bakshree Mishra, __Ying Jing__, Zeran Zhu, Naiyin Jin, Charles Block, Paolo Mantovani, Davide Giri, Joseph Zuckerman, Luca P. Carloni, Sarita Adve<br>
+  _The International Conference on Parallel Architectures and Compilation Techniques (__PACT__)_, 2024.
 * [A 12nm Linux-SMP-Capable RISC-V SoC with 14 Accelerator Types, Distributed Hardware Power Management and Flexible NoC-Based Data Orchestration](https://ieeexplore.ieee.org/abstract/document/10454572)<br>
   Maico Cassel dos Santos, Tianyu Jia, Joseph Zuckerman, Martin Cochet, Davide Giri, Eric Jens Loscalzo, Karthic Swaminathan, Thierry Tambe, Jeff Jun Zhang, Alper Buyuktosunoglu, Kuan-Lin Chiu, Giuseppe Di Guglielmo, Paolo Mantovani, Luca Piccolboni, Gabriele Tombesi, David Trilla, John-David Wellman, En-Yu Yang, Aporva Amarnath, __Ying Jing__, Bakshree Mishra, Joshua Park, Vignesh Suresh, Sarita Adve, Pradip Bose, David Brooks, Luca P. Carloni, Kenneth L. Shepard, Gu-Yeon Wei<br>
   _IEEE International Solid-State Circuits Conference (__ISSCC__)_, 2024.
