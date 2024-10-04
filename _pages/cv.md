@@ -13,7 +13,7 @@ _Please email me if you need a PDF version of my latest CV._
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign
+* Ph.D. in Electrical and Computer Engineering, University of Illinois Urbana-Champaign
 * B.Eng. in Electronic and Computer Engineering, Hong Kong University of Science and Technology
 
 Publications
@@ -54,6 +54,21 @@ Talks
 * _ILLIXR: Illinois Extended Reality Testbed_
   * Tutorial, held in conjunction with the 26th International Conference on Architectural Support for Programming Languages and Operating Systems (__ASPLOS__), April 2021.
 
+Technical Service
+======
+* __Session Chair__, [PACT 2024](https://pact2024.github.io/program/)
+* __Artifact Evaluation Committee Member__, [SOSP 2024](https://sigops.org/s/conferences/sosp/2024/)
+* __Selection Committee Member__, [PACT 2024 SRC](https://pact2024.github.io/src/)
+
+Awards
+======
+* UIUC Teachers ranked as excellent by their students with outstanding ratings (2024)
+* IISWC 2021 Best Paper Award (2021)
+* ADA Center 2020 Lynn Conway Research Award (2020)
+* HKUST Continuing UG Scholarship (2018, 2017, 2016)
+* Hong Kong Government Reaching Out Award (2018)
+* HKUST Study Abroad Sponsorship (2018)
+
 Programming Skills
 ======
 * Python
@@ -83,9 +98,3 @@ Languages
 * English
 * Cantonese
 * Japanese
-
-Scholarship
-======
-* HKUST Continuing UG Scholarship (2018, 2017, 2016)
-* Hong Kong Government Reaching Out Award (2018)
-* HKUST Study Abroad Sponsorship (2018)
