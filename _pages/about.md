@@ -21,11 +21,9 @@ Research Interests
 ======
 I am interested in the design of hardware-software interface with the work spanning
 * Computer Architecture
-* Heterogeneous Systems
-* Architectural Design Space Exploration
-* Memory Systems
-* Hardware/Software Co-design Method
-* Parallel Programming
+* Heterogeneous Computing
+* Cache Coherence
+* Near-memory Processing
 
 My current research focuses on efficient cache coherence and data communication in CXL systems.
 
@@ -33,6 +31,7 @@ For my publications etc., please check [CV](/cv).
 
 News
 ======
+* [Oct 2024] I will be a session chair at [PACT 2024](https://pact2024.github.io/program/)!
 * [Sep 2024] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)! I was the only one from ECE 110 with Outstanding Instructor Ratings! Thank you, my ECE 110 students!
 * [June 2024] Our paper titled [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://rsim.cs.illinois.edu/Pubs/24-PACT-Mozart.pdf) is accepted for publication at [PACT 2024](https://pact2024.github.io/index)!
 * [Nov 2023] Our paper titled [A 12nm Linux-SMP-Capable RISC-V SoC with 14 Accelerator Types, Distributed Hardware Power Management and Flexible NoC-Based Data Orchestration](https://ieeexplore.ieee.org/abstract/document/10454572) is accepted for publication at [ISSCC 2024](https://www.isscc.org/)!
