@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome
 ======
-I am a PhD candidate at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC). I work with [Prof. Sarita V. Adve](http://sadve.cs.illinois.edu/) on computer architecture.
+I am a PhD candidate at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). I work with [Prof. Sarita V. Adve](http://sadve.cs.illinois.edu/) on computer architecture.
 
 Before my graduate study, I was a research assistant under the supervision of [Prof. Chi-Ying Tsui](https://sites.google.com/view/vlsi-lab-hkust/people/tsui-chi-ying) and [Prof. Wing-Hung Ki](https://eeki.home.ece.ust.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) (HKUST) and NeuroTech (HK) Limited for half a year.
 
