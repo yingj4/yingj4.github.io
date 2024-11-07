@@ -31,10 +31,10 @@ For my publications etc., please check [CV](/cv).
 
 News
 ======
-* [Oct 2024] We presented our [Mozart](https://dl.acm.org/doi/10.1145/3656019.3676896) work at [PACT 2024](https://pact2024.github.io/)!
+* [Oct 2024] We presented our paper titled [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://dl.acm.org/doi/10.1145/3656019.3676896) work at [PACT 2024](https://pact2024.github.io/)!
 * [Oct 2024] I was a session chair at [PACT 2024](https://pact2024.github.io/program/)!
-* [Sep 2024] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)! I was the only one from ECE 110 with Outstanding Instructor Ratings! Thank you, my ECE 110 students!
-* [June 2024] Our paper titled [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://rsim.cs.illinois.edu/Pubs/24-PACT-Mozart.pdf) is accepted for publication at [PACT 2024](https://pact2024.github.io/index)! It earns all artifact badges!
+* [Sep 2024] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). I was the only one from ECE 110 with Outstanding Instructor Ratings. Thank you, my ECE 110 students!
+* [June 2024] Our paper titled [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://rsim.cs.illinois.edu/Pubs/24-PACT-Mozart.pdf) is accepted for publication at [PACT 2024](https://pact2024.github.io/index). It earns all artifact badges!
 * [Nov 2023] Our paper titled [A 12nm Linux-SMP-Capable RISC-V SoC with 14 Accelerator Types, Distributed Hardware Power Management and Flexible NoC-Based Data Orchestration](https://ieeexplore.ieee.org/abstract/document/10454572) is accepted for publication at [ISSCC 2024](https://www.isscc.org/)!
 * [Apr 2023] Our paper titled [Trireme: Exploration of Hierarchical Multi-level Parallelism for Hardware Acceleration](https://dl.acm.org/doi/full/10.1145/3580394) is accepted for publication at the [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs)!
 * [Jan 2023] Our paper titled [FARSI: An Early-stage Design Space Exploration Framework to Tame the Domain-specific System-on-chip Complexity](https://dl.acm.org/doi/abs/10.1145/3544016) is accepted for publication at the [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs)!
@@ -42,7 +42,7 @@ News
 * [Dec 2021] I passed my PhD Qualifying Exam!
 * [Nov 2021] We presented our [ILLIXR](http://illixr.org/) work at the [2021 ADA Symposium](https://adacenter.org/fallsymposium2021)!
 * [Nov 2021] We presented our paper titled [ILLIXR: Enabling End-to-End Extended Reality Research](https://ieeexplore.ieee.org/document/9668280) at [IISWC 2021](http://www.iiswc.org/iiswc2021/index.html). The video is available [here](https://www.youtube.com/watch?v=xJffy3TPTFE&list=PL2-k5PdgEJAm-kl4dLZs0oLdQX-jdvu9o&index=1&t=357s&ab_channel=ieeeComputerSociety)! We also won the __Best Paper Award__!
-* [Sep 2021] Our paper titled [ILLIXR: Enabling End-to-End Extended Reality Research](http://rsim.cs.illinois.edu/Pubs/IISWC_2021_ILLIXR.pdf) is accepted for publication at [IISWC 2021](http://www.iiswc.org/iiswc2021/index.html)! It also has the artifact part!
+* [Sep 2021] Our paper titled [ILLIXR: Enabling End-to-End Extended Reality Research](http://rsim.cs.illinois.edu/Pubs/IISWC_2021_ILLIXR.pdf) is accepted for publication at [IISWC 2021](http://www.iiswc.org/iiswc2021/index.html). It also has the artifact part!
 * [July 2021] FARSI becomes open-sourced. Available [here](https://github.com/facebookresearch/Project_FARSI)!
 * [June 2021] We presented our [ILLIXR](http://illixr.org/) work at the [ISCA 2021 tutorial](https://illixr.org/about/news/isca-2021-tutorial). The video is available [here](https://www.youtube.com/watch?v=CdP99PO5pRU&list=PL2-k5PdgEJAm-kl4dLZs0oLdQX-jdvu9o&index=2&ab_channel=SaritaAdve%27sResearchGroup)!
 * [Apr 2021] We presented our [ILLIXR](http://illixr.org/) work at the [ASPLOS 2021 tutorial](https://asplos-conference.org/2021/index.html%3Fp=2278.html#illixr)!
