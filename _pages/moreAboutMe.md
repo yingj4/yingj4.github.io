@@ -17,7 +17,7 @@ I am an amateur of the piano. I have the absolute pitch.
 
 I enjoy listening to all kinds of music in my spare time and when working out at the gym. [Jay Chou](https://en.wikipedia.org/wiki/Jay_Chou) is my favorite. I also listen to songs by [Urashimasakatasen](https://en.wikipedia.org/wiki/Urashimasakatasen) (especially [Senra](https://utaite.fandom.com/wiki/Senra)), [Nqrse](https://utaite.fandom.com/wiki/Nqrse), [Linkin Park](https://en.wikipedia.org/wiki/Linkin_Park), and [Hacken Lee](https://en.wikipedia.org/wiki/Hacken_Lee).
 
-## TV Series
-I love Deadpool (both the comic one and the one Ryan Reynolds plays). I am a big fan of Marvel.
+## Others
+I enjoy learning social science, philosophy, and psychology as a hobby. It helps me get to know this world better.
 
-I also love the TBBT series. TBBT is one of the reasons why I want to do a Ph.D. (half-kidding).
+For the TV series, I love Deadpool (both the comic one and the one Ryan Reynolds plays). I was a big fan of Marvel until The Avengers: Endgame. I also love the TBBT series, the Sherlock Holmes series, and the Fast & Furious series.
