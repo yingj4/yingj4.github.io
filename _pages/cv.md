@@ -57,7 +57,7 @@ Talks
 Technical Service
 ======
 * __Session Chair__, [PACT 2024](https://pact2024.github.io/program/)
-* __Artifact Evaluation Committee Member__, [SOSP 2024](https://sigops.org/s/conferences/sosp/2024/)
+* __Artifact Evaluation Committee Member__, [SOSP 2024](https://sigops.org/s/conferences/sosp/2024/), [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/)
 * __Selection Committee Member__, [PACT 2024 SRC](https://pact2024.github.io/src/)
 
 Awards
