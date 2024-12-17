@@ -41,6 +41,8 @@ Publications
 
 Talks
 ======
+* _Mozart: Taming Taxes and Composing Accelerators with Shared-Memory_
+  * Main program in the 2024 International Conference on Parallel Architectures and Compilation Techniques (__PACT__), October 2024.
 * _Composable Hardware Acceleration for Immersive Computing_
   * Agile Software-Hardware Co-Design of AI-Centric Heterogeneous SoCs (EPOCHS) tutorial, held in conjunction with the 51st International Symposium on Computer Architecture (__ISCA__), June 2024.
 * _Towards Flexible and Low-overhead Memory Hierarchies for Heterogeneous Systems_
@@ -48,7 +50,7 @@ Talks
 * _ILLIXR - Tutorial and ADA Opportunities_
   * 2021 [ADA Center](https://adacenter.org/fallsymposium2021) Annual Symposium, November 2021.
 * _ILLIXR: Enabling End-to-End Extended Reality Research_
-  * Main program in 2021 IEEE International Symposium on Workload Characterization (__IISWC__), November 2021.
+  * Main program in the 2021 IEEE International Symposium on Workload Characterization (__IISWC__), November 2021.
 * _ILLIXR: Illinois Extended Reality Testbed Enabling Augmented and Virtual Reality Architecture and Systems Research_
   * Tutorial, held in conjunction with the 48th Symposium on Computer Architecture (__ISCA__), June 2021.
 * _ILLIXR: Illinois Extended Reality Testbed_
