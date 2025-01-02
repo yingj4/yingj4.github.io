@@ -15,7 +15,7 @@ Other than soccer, I also work out at the gym.
 ## Music
 I am an amateur of the piano. I have the absolute pitch.
 
-I enjoy listening to all kinds of music in my spare time and when working out at the gym. [Jay Chou](https://en.wikipedia.org/wiki/Jay_Chou) is my favorite. I also listen to songs by [Urashimasakatasen](https://en.wikipedia.org/wiki/Urashimasakatasen) (especially [Senra](https://utaite.fandom.com/wiki/Senra)), [Nqrse](https://utaite.fandom.com/wiki/Nqrse), [Linkin Park](https://en.wikipedia.org/wiki/Linkin_Park), and [Hacken Lee](https://en.wikipedia.org/wiki/Hacken_Lee).
+I enjoy listening to all kinds of music in my spare time and when working out at the gym. [Jay Chou](https://en.wikipedia.org/wiki/Jay_Chou) is my favorite. I also listen to songs by [Nqrse](https://utaite.fandom.com/wiki/Nqrse), [Urashimasakatasen](https://en.wikipedia.org/wiki/Urashimasakatasen) (especially [Senra](https://utaite.fandom.com/wiki/Senra)), [Linkin Park](https://en.wikipedia.org/wiki/Linkin_Park), and [Hacken Lee](https://en.wikipedia.org/wiki/Hacken_Lee).
 
 ## Others
 I enjoy learning social science, philosophy, and psychology as a hobby. It helps me get to know this world better.
