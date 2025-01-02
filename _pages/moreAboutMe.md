@@ -20,4 +20,4 @@ I enjoy listening to all kinds of music in my spare time and when working out at
 ## Others
 I enjoy learning social science, philosophy, and psychology as a hobby. It helps me get to know this world better.
 
-For the TV series, I love Deadpool (both the comic one and the one Ryan Reynolds plays). I was a big fan of Marvel until The Avengers: Endgame. I also love the TBBT series, the Sherlock Holmes series, and the Fast & Furious series.
+For the TV series, I love Deadpool (both the comic one and the one Ryan Reynolds plays). I was a big fan of Marvel until [Avengers: Endgame](https://en.wikipedia.org/wiki/Avengers:_Endgame). I also love the TBBT series, the Sherlock Holmes series, and the Fast & Furious series.
