@@ -13,9 +13,9 @@ ECE 110, ECE 120
 ECE 120
 ======
 * Course Title: Introduction to Computing
-* Semester: Fall 2024
+* Semester: Fall 2024, Spring 2025
 * Position: Graduate Teaching Assistant
-* Job Duty: Leading the discussion session, debugging
+* Job Duty: Leading the discussion session, developing the materials for an extra credit task, giving the lecture for the extra credit task, grading, providing exam questions, debugging
 
 ECE 110
 ======
