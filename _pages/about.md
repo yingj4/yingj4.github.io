@@ -31,6 +31,7 @@ For my publications etc., please check [CV](/cv).
 
 News
 ======
+* [Jan 2025] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). Thank you, my ECE 110 students!
 * [Oct 2024] We presented our paper titled [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://dl.acm.org/doi/10.1145/3656019.3676896) work at [PACT 2024](https://pact2024.github.io/)!
 * [Oct 2024] I was a session chair at [PACT 2024](https://pact2024.github.io/program/)!
 * [Sep 2024] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). I was the only one from ECE 110 with Outstanding Instructor Ratings. Thank you, my ECE 110 students!
