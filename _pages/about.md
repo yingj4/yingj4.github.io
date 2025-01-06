@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome
 ======
-I am a PhD candidate at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). I work with [Prof. Sarita V. Adve](http://sadve.cs.illinois.edu/) on computer architecture.
+I am a PhD candidate at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC). I work with [Prof. Sarita V. Adve](http://sadve.cs.illinois.edu/) on computer architecture and heterogeneous computing.
 
 Before my graduate study, I was a research assistant under the supervision of [Prof. Chi-Ying Tsui](https://sites.google.com/view/vlsi-lab-hkust/people/tsui-chi-ying) and [Prof. Wing-Hung Ki](https://eeki.home.ece.ust.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) (HKUST) and NeuroTech (HK) Limited for half a year.
 
@@ -31,7 +31,7 @@ For my publications etc., please check [CV](/cv).
 
 News
 ======
-* [Jan 2025] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). Thank you, my ECE 110 students!
+* [Jan 2025] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). Thank you, my ECE 120 students!
 * [Oct 2024] We presented our paper titled [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://dl.acm.org/doi/10.1145/3656019.3676896) work at [PACT 2024](https://pact2024.github.io/)!
 * [Oct 2024] I was a session chair at [PACT 2024](https://pact2024.github.io/program/)!
 * [Sep 2024] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). I was the only one from ECE 110 with Outstanding Instructor Ratings. Thank you, my ECE 110 students!
