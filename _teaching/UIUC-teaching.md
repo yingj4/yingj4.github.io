@@ -16,6 +16,7 @@ ECE 120
 * Semester: Fall 2024, Spring 2025
 * Position: Graduate Teaching Assistant
 * Job Duty: Leading the discussion session, developing the materials for an extra credit task, giving the lecture for the extra credit task, grading, providing exam questions, debugging
+* __Teacher Ranked as Excellent by Their Students__
 
 ECE 110
 ======
