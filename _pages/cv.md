@@ -59,7 +59,7 @@ Talks
 Technical Service
 ======
 * __Session Chair__, [PACT 2024](https://pact2024.github.io/program/)
-* __Reviewer__, [PACT 2024 SRC](https://pact2024.github.io/src/)
+* __Reviewer__, [IEEE Access 2025](https://ieeeaccess.ieee.org/), [PACT 2024 SRC](https://pact2024.github.io/src/)
 * __Artifact Evaluation Committee Member__, [SOSP 2024](https://sigops.org/s/conferences/sosp/2024/), [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/), [HPCA 2025](https://hpca-conf.org/2025/), [FAST 2025](https://www.usenix.org/conference/fast25)
 
 Awards
