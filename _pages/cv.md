@@ -64,6 +64,7 @@ Technical Service
 
 Awards
 ======
+* UIUC Teachers ranked as excellent by their students with outstanding ratings (2025)
 * UIUC Harold L. Lesen Undergraduate Teaching Award (2025)
 * UIUC Teachers ranked as excellent by their student (2024)
 * UIUC Teachers ranked as excellent by their students with outstanding ratings (2024)
