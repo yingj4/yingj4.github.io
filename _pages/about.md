@@ -31,6 +31,7 @@ For my publications etc., please check [CV](/cv).
 
 News
 ======
+* [Sep 2025] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2025-spring.pdf). I was the only one from ECE 120 with Outstanding Instructor Ratings. Thank you, my ECE 120 students!
 * [Apr 2025] I received the [Harold L. Olesen Undergraduate Teaching Award](https://ece.illinois.edu/academics/grad/awards/olesen). Thank you, my ECE 120 students and Professor Ujjal Kumar Bhowmik!
 * [Jan 2025] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). Thank you, my ECE 120 students!
 * [Oct 2024] We presented our paper titled [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://dl.acm.org/doi/10.1145/3656019.3676896) work at [PACT 2024](https://pact2024.github.io/)!
