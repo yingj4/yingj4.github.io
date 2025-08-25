@@ -64,10 +64,10 @@ Technical Service
 
 Awards
 ======
-* UIUC Teachers ranked as excellent by their students with outstanding ratings (2025)
+* UIUC Teachers ranked as excellent by their students with outstanding ratings (Spring 2025)
 * UIUC Harold L. Lesen Undergraduate Teaching Award (2025)
-* UIUC Teachers ranked as excellent by their student (2024)
-* UIUC Teachers ranked as excellent by their students with outstanding ratings (2024)
+* UIUC Teachers ranked as excellent by their student (Fall 2024)
+* UIUC Teachers ranked as excellent by their students with outstanding ratings (Spring 2024)
 * IISWC 2021 Best Paper Award (2021)
 * ADA Center 2020 Lynn Conway Research Award (2020)
 * HKUST Continuing UG Scholarship (2018, 2017, 2016)
