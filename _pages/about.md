@@ -31,12 +31,12 @@ For my publications etc., please check [CV](/cv).
 
 News
 ======
-* [Sep 2025] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). I was the only one from ECE 120 with Outstanding Instructor Ratings. Thank you, my ECE 120 students!
+* [Sep 2025] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). I also received Outstanding Instructor Ratings. Thank you, my ECE 120 students!
 * [Apr 2025] I received the [Harold L. Olesen Undergraduate Teaching Award](https://ece.illinois.edu/academics/grad/awards/olesen). Thank you, my ECE 120 students and Professor Ujjal Kumar Bhowmik!
 * [Jan 2025] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). Thank you, my ECE 120 students!
 * [Oct 2024] We presented our paper titled [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://dl.acm.org/doi/10.1145/3656019.3676896) work at [PACT 2024](https://pact2024.github.io/)!
 * [Oct 2024] I was a session chair at [PACT 2024](https://pact2024.github.io/program/)!
-* [Sep 2024] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). I was the only one from ECE 110 with Outstanding Instructor Ratings. Thank you, my ECE 110 students!
+* [Sep 2024] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). I also received Outstanding Instructor Ratings. Thank you, my ECE 110 students!
 * [June 2024] Our paper titled [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://rsim.cs.illinois.edu/Pubs/24-PACT-Mozart.pdf) is accepted for publication at [PACT 2024](https://pact2024.github.io/index). It earns all artifact badges!
 * [Nov 2023] Our paper titled [A 12nm Linux-SMP-Capable RISC-V SoC with 14 Accelerator Types, Distributed Hardware Power Management and Flexible NoC-Based Data Orchestration](https://ieeexplore.ieee.org/abstract/document/10454572) is accepted for publication at [ISSCC 2024](https://www.isscc.org/)!
 * [Apr 2023] Our paper titled [Trireme: Exploration of Hierarchical Multi-level Parallelism for Hardware Acceleration](https://dl.acm.org/doi/full/10.1145/3580394) is accepted for publication at the [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs)!
