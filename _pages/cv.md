@@ -18,6 +18,9 @@ Education
 
 Publications
 ======
+* [EPOCHS-1: A 12 nm Highly Heterogeneous Open-Source SoC With Distributed Coin-Based Power Management and Integrated Hybrid Voltage Regulation](https://ieeexplore.ieee.org/document/11180935)<br>
+  Joseph Zuckerman, Martin Cochet, Maico Cassel dos Santos, Erik Jens Loscalzo, Karthik Swaminathan, Tianyu Jia, Davide Giri, Thierry Tambe, Jeff Jun Zhang, Alper Buyuktosunoglu, Kuan-Lin Chiu, Giuseppe Di Guglielmo, Paolo Mantovani, Luca Piccolboni, Gabriele Tombesi, David Trilla, John-David Wellman, En-Yu Yang, Aporva Amarnath, __Ying Jing__, Bakshree Mishra, Joshua Park, Vignesh Suresh, Samira Zaliasl, Michael Lekas, Stephen Cahill, Hesam Sadeghi, Joseph Meyer, Noah Sturcken, Sarita Adve, David Brooks, Gu-Yeon Wei, Kenneth L. Shepard, Pradip Bose, Luca P. Carloni<br>
+  _The IEEE Journal of Solid-State Circuits (__JSSC__)_, 2025.
 * [Mozart: Taming Taxes and Composing Accelerators with Shared-Memory](https://rsim.cs.illinois.edu/Pubs/24-PACT-Mozart.pdf)<br>
   Vignesh Suresh, Bakshree Mishra, __Ying Jing__, Zeran Zhu, Naiyin Jin, Charles Block, Paolo Mantovani, Davide Giri, Joseph Zuckerman, Luca P. Carloni, Sarita Adve<br>
   _The International Conference on Parallel Architectures and Compilation Techniques (__PACT__)_, 2024.
@@ -66,7 +69,7 @@ Awards
 ======
 * UIUC Teachers ranked as excellent by their students with outstanding ratings (Spring 2025)
 * UIUC Harold L. Lesen Undergraduate Teaching Award (2025)
-* UIUC Teachers ranked as excellent by their student (Fall 2024)
+* UIUC Teachers ranked as excellent by their students (Fall 2024)
 * UIUC Teachers ranked as excellent by their students with outstanding ratings (Spring 2024)
 * IISWC 2021 Best Paper Award (2021)
 * ADA Center 2020 Lynn Conway Research Award (2020)
@@ -103,3 +106,4 @@ Languages
 * English
 * Cantonese
 * Japanese
+* French
