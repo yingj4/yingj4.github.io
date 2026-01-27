@@ -31,6 +31,7 @@ For my publications etc., please check [CV](/cv).
 
 News
 ======
+* [Jan 2026] I passed my PhD Prelim Exam! Many thanks to my committee members: [Prof. Sarita Adve](http://sadve.cs.illinois.edu/), [Prof. Saugata Ghose](https://ghose.web.illinois.edu/), [Prof. Jian Huang](https://jianh.web.engr.illinois.edu/), and [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/)!
 * [Sep 2025] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). I also received Outstanding Instructor Ratings. Thank you, my ECE 120 students!
 * [Apr 2025] I received the [Harold L. Olesen Undergraduate Teaching Award](https://ece.illinois.edu/academics/grad/awards/olesen). Thank you, my ECE 120 students and Professor Ujjal Kumar Bhowmik!
 * [Jan 2025] I was selected as a [Teacher Ranked as Excellent by Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent). Thank you, my ECE 120 students!
