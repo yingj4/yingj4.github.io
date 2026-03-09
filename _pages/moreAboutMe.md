@@ -18,6 +18,8 @@ I am an amateur of the piano. I have the [absolute pitch](https://en.wikipedia.o
 I enjoy listening to all kinds of music in my spare time and when working out at the gym. [Jay Chou](https://en.wikipedia.org/wiki/Jay_Chou) is my favorite. I also listen to songs by [Nqrse](https://utaite.fandom.com/wiki/Nqrse), [Urashimasakatasen](https://en.wikipedia.org/wiki/Urashimasakatasen) (especially [Senra](https://utaite.fandom.com/wiki/Senra)), [Linkin Park](https://en.wikipedia.org/wiki/Linkin_Park), and [Hacken Lee](https://en.wikipedia.org/wiki/Hacken_Lee).
 
 ## Others
+I love thinking and solving problems. [Je pense, donc je suis](https://en.wikipedia.org/wiki/Cogito,_ergo_sum).
+
 I enjoy learning social science, philosophy, and psychology as a hobby. It helps me get to know this world better.
 
 For the TV series, I love Deadpool (both the comic one and the one [Ryan Reynolds](https://en.wikipedia.org/wiki/Ryan_Reynolds) plays). I was a big fan of Marvel until [Avengers: Endgame](https://en.wikipedia.org/wiki/Avengers:_Endgame). I also love the [TBBT](https://en.wikipedia.org/wiki/The_Big_Bang_Theory) series, the [Sherlock Holmes](https://en.wikipedia.org/wiki/Sherlock_(TV_series)) series, and the [Fast & Furious](https://en.wikipedia.org/wiki/Fast_%26_Furious) series.
